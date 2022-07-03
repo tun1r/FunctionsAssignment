@@ -1,0 +1,5 @@
+1.[1,2,3,4,5,6,7,8,9] is the parameter passed in the function is_even_num(l) when it is called in the last line ( print(is_even_num([1,2,3,4,5,6,7,8,9]))
+2.Empty list enum is initialized in line 2
+3.Checks every element of list l in line 3
+4.If element is divisible by 2 it is added to list enum in line 4 and 5
+5.List enum containing only even numbers from list l is returned

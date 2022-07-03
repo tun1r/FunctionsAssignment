@@ -1,0 +1,2 @@
+Default arguments are arguments passed while defining a function, and are passed to the function by default. Have a specific order.
+A Keyword argument is an argument which is keyworded and used while calling a function. The arguments are identified by the parameter name Keyword arguments can be called in any order unlike the positional arguments which are supposed to be passed in a certain order.
